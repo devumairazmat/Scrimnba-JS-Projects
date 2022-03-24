@@ -1,0 +1,32 @@
+#main {
+  width: 50%;
+  padding: 5px 0;
+  text-align: center;
+  height: 200px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  margin: auto;
+
+  background-image: linear-gradient(
+    45deg,
+    hsl(299deg 74% 54%) 0%,
+    hsl(319deg 100% 50%) 10%,
+    hsl(344deg 100% 63%) 20%,
+    hsl(20deg 100% 63%) 30%,
+    hsl(43deg 100% 53%) 40%,
+    hsl(55deg 96% 54%) 50%,
+    hsl(46deg 100% 52%) 60%,
+    hsl(37deg 100% 55%) 70%,
+    hsl(26deg 100% 59%) 80%,
+    hsl(13deg 100% 62%) 90%,
+    hsl(0deg 84% 62%) 100%
+  );
+}
+.resultsBlock {
+  width: 50%;
+  padding: 10px 0;
+  text-align: center;
+  height: 50%;
+  margin: auto;
+  background-color: rgb(205, 255, 67);
+}
